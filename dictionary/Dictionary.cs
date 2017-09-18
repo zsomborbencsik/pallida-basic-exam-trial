@@ -32,7 +32,7 @@ namespace Dictionary
         }
 
         // Implement a method which works as a translator from Hungarian to English
-        // Example: you give it a parameter "alma" and it's output is "tree"
+        // Example: you give it a parameter "fa" and it's output is "tree"
         public static string TranslateToEnglish(string hungarian)
         {
 
